@@ -1,4 +1,4 @@
-import 'lvm-las-assets'
+import 'crimson-styleguide'
 import $ from 'jquery'
 
 $(document).on('ready pjax:success', () => {
