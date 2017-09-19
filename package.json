@@ -24,7 +24,7 @@
     "express": "^4.13.4",
     "install": "^0.4.4",
     "jquery-pjax": "defunkt/jquery-pjax",
-    "crimson-backend": "crimson-assurance/crimson-backend",
+    "crimson-backend": "ewolff/crimson-backend",
     "less": "^2.6.0",
     "less-plugin-clean-css": "^1.5.1",
     "less-plugin-npm-import": "^2.1.0",
